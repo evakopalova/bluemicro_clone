@@ -3,7 +3,7 @@
 # rename the name below so that you can see the different keyboards in your github actions
 name: 4x4MacroPad
 
-# You will need to manually trigger this workflow
+# manually trigger this workflow
 on:  ['workflow_dispatch']
 
 jobs:
